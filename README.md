@@ -68,7 +68,6 @@ Protected by Enterprise-grade security and strict Role-Based Access Control (RBA
 
 ## 📸 Platform Gallery
 
-> **Developer Note:** To add images here, upload your screenshots to an image hosting site (or drag them into a GitHub issue to generate a link) and replace the URLs below!
 
 | Student Dashboard |
 | :---: |
